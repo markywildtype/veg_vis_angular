@@ -1,0 +1,62 @@
+[
+  {"Area": "Scotland",
+    "Sub-area": [
+      {"Glasgow": [
+        {"Cafes/Restaurants": [
+          {"name": "The Flying Duck",
+            "tel": "0141 564 1450",
+            "address": "142 Renfield Street, Glasgow G2 3AU",
+            "codes": "R/C/Bar L d org F"},
+          {"name": "mono",
+            "tel": "0141 553 2400",
+            "address": "12 Kings Court, King Street, Glasgow G1 5RB",
+            "codes": "C/Bar L d w org"},
+          {"name": "STEREO",
+            "tel": "0141 222 2254",
+            "address": "20-28 Renfield Lane, Glasgow G2 6PH",
+            "codes": "C/Bar L d w org"},
+          {"name": "The 78",
+            "tel": "0141 576 5018",
+            "address": "14 Kelvinhaugh Street, Glasgow G3 8NU",
+            "codes": "C/Bar L d w org"}
+          ]}
+        ]
+      },
+      {"Edinburgh": [
+        {"Cafes/Restaurants": [
+          {"name": "David Bann Restaurant",
+            "tel": "0131 556 5888",
+            "address": "56-58 St Mary's Street, Edinburgh EH1 1SX",
+            "codes": "R L c"},
+          {"name": "Filmhouse Café/Bar",
+            "tel": "0131 229 5932",
+            "address": "88 Lothian Road, Edinburgh EH3 9BZ",
+            "email": "cafebar@filmhousecinema.com",
+            "website": "www.filmhousecinema.com/cafe-bar",
+            "photo": "http://www.vegetarianvisitor.co.uk/images%202016/Filmhouse,%20Edinburgh.jpg",
+            "description": "<p>Serving traditional and International food from light snacks and breakfast to full meals, including vegetarian, vegan and gluten-free options, in a relaxed and comfortable environment.</p>",
+            "codes": "C/Bar L a w org F"},
+          {"name": "Henderson’s Holyrood",
+            "tel": "0131 557 1606",
+            "address": "67 Holyrood Road, Edinburgh EH8 8AU",
+            "description": "<p>Henderson's Holyrood is serving fresh vegetarian and vegan food from 8.30am - 8.30pm. With a wide range of cooked breakfasts, lunch and table service evening dining. Facebook: <a href="">www.facebook.com/hendersonsholyrood<a>, email <a href="">holyrood@hendersonsofedinburgh.co.uk<a>, website <a href=""www.hendersonsofedinburgh.co.uk</a></p>",
+            "codes": "C L c w org F"
+            }
+          ],
+          "Accommodation": [
+            {"name": "Winter Cherry B&B",
+              "tel": "tel 0131 554 6605, mobile 07982 231478",
+              "address": "46 Pilrig Street, Edinburgh EH6 5AL",
+              "email": "info@wintercherrybedandbreakfast.co.uk",
+              "website": "www.wintercherrybedandbreakfast.co.uk",
+              "photo": "http://www.vegetarianvisitor.co.uk/images%202016/Winter%20Cherry,%20Edinburgh.jpg",
+              "description": "<p>You will be given a key to your room on arrival, so that you can come and go as you please. Continental breakfast is served in the kitchen overlooking the back garden and if the weather has been kind, and the season is right, this may include greengages, apples, pears and blackberries from our garden. It will always include delicious artisan bread from Herbies, a renowned Edinburgh delicatessen, a freshly made smoothie, organic home-made Bircher muesli, yoghurt, fruit juices, Scottish cheeses, oatcakes and a selection of cereals and jams, as well as tea and coffee. Please check our website for details and to book.</p>",
+              "codes": "PH CatB V Ve NS Acc6"
+            }
+          ]
+        }
+      ]
+      }
+    ]
+  }
+]
